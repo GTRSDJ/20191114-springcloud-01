@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="20191110-consumer-6081" target="1.5" />
+      <module name="20191110-consumer-6083" target="1.5" />
+      <module name="20191110-consumer-feign-6084" target="1.5" />
+      <module name="20191110-consumer-management" target="1.5" />
+      <module name="20191110-eureka-7081" target="1.5" />
+      <module name="20191110-eureka-7082" target="1.5" />
+      <module name="20191110-eureka-7083" target="1.5" />
+      <module name="20191110-eureka-management" target="1.5" />
+      <module name="20191110-managemen" target="1.5" />
+      <module name="20191110-managemen-api" target="1.5" />
+      <module name="20191110-managemen-mapper" target="1.5" />
+      <module name="20191110-managemen-model" target="1.5" />
+      <module name="20191110-managemen-service" target="1.5" />
+      <module name="20191110-provide-8081" target="1.5" />
+      <module name="20191110-provide-8082" target="1.5" />
+      <module name="20191110-provide-8083" target="1.5" />
+      <module name="20191110-provide-management" target="1.5" />
+      <module name="20191113-zuul-5081" target="1.5" />
+      <module name="20191114-springcloud-config-4081" target="1.5" />
+      <module name="_20191110consuner6082" target="1.5" />
+      <module name="_20191110springcloud" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
